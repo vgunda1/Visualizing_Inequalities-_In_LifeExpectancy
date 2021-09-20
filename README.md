@@ -1,1 +1,1 @@
-# Visualizing_Inequalities-_In_LifeExpectancy
+# Visualizing_Inequalities_In_LifeExpectancy
